@@ -1,0 +1,22 @@
+[
+    {
+        "filename": "plate_2.jpg",
+        "text": "5083600",
+        "confidence": 0.88
+    },
+    {
+        "filename": "plate_1.jpg",
+        "text": "C0I10X3",
+        "confidence": 0.36
+    },
+    {
+        "filename": "plate_4.jpg",
+        "text": "HAF",
+        "confidence": 1.0
+    },
+    {
+        "filename": "plate_4.jpg",
+        "text": "HER",
+        "confidence": 0.99
+    }
+]
